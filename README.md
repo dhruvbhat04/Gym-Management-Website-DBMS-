@@ -1,1 +1,2 @@
 # Gym-Management-Website-DBMS-
+Developed a full-stack web application for gym management using HTML, CSS, JavaScript, PHP, and Oracle database. The system handled member and trainer records, workout plans, and payment processing, implementing CRUD operations while ensuring data integrity and reliability. Designed a responsive, intuitive, and user-friendly interface to provide a seamless experience for administrators and users.
